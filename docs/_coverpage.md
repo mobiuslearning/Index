@@ -4,6 +4,6 @@
 
 > 一个思考、积累、分享的地方
 
-![](_media/mobius.png)
+![](_media/logo.png)
 <!-- [GitHub](https://github.com/docsifyjs/docsify/)
 [Get Started](#docsify) -->
